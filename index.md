@@ -12,7 +12,7 @@ A student
 ### about
 tracy is a student.
 ### Links
- * [教育窗]（http://nccu.eventhtm2.com
+ * [教育窗]（http://nccu.eventhtm2.com)
  
  
 
