@@ -21,5 +21,4 @@ tracy is a student.
  
 
 - - -
- * (http://clawnos.hhtpe.me/)
-
+ * [clawnos](http://clawnos.hhtpe.me/)
